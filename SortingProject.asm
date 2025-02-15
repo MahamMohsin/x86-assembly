@@ -1,4 +1,4 @@
-TITLE My First Program (Test.asm)
+TITLE My First Program (SortingProject.asm)
 INCLUDE Irvine32.inc
 
 .data
